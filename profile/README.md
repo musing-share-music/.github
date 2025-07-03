@@ -1,4 +1,7 @@
-# Musing
+<div align="center">
+
+# Musing - 음악 추천 및 플레이리스트 생성 사이트
+</div>
 
 ![메인 이미지](assets/thumbnail.png)  
 <a href="https://digging-musing.site/" target="_blank">링크 바로가기</a>
